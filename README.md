@@ -2,6 +2,9 @@
 
 Created this project to learn about the React-redux. In this project i have used googlebooks api, react-redux, redux-thunk, material-ui. Using this app anyone can find different types of books and can read it for free like googleplay books.
 
+<img width="1435" alt="Screen Shot 2020-09-06 at 8 13 21 PM" src="https://user-images.githubusercontent.com/30860608/92338491-d2b76000-f07e-11ea-887e-f9bd0b005ded.png">
+
+
 
 
 
