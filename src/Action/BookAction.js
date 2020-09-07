@@ -8,7 +8,7 @@ import {
 
 export const getBooks = postData => {
     return async dispatch => {
-        const res = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=${postData.txt}&orderBy:bestsellers&key=AIzaSyAYm6-RhkiIMO1AdsnMqI2l2DbN1w5hahc`);
+        const res = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=${postData.txt}&orderBy:bestsellers`);
         dispatch({
             type: GET_BOOKS,
             payload: res.data
