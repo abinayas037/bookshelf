@@ -1,3 +1,12 @@
+## BookShelf
+
+Created this project to learn about the React-redux. In this project i have used googlebooks api, react-redux, redux-thunk, material-ui. Using this app anyone can find different types of books and can read it for free like googleplay books.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
